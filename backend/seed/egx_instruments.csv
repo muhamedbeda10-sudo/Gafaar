@@ -1,0 +1,57 @@
+symbol,name,sector,type
+EGX30,EGX 30 Index,Index,index
+EGX70,EGX 70 EWI Index,Index,index
+EGX100,EGX 100 EWI Index,Index,index
+COMI,Commercial International Bank (Egypt),Banks,stock
+QNBE,QNB Egypt,Banks,stock
+CIEB,Credit Agricole Egypt,Banks,stock
+ADIB,Abu Dhabi Islamic Bank Egypt,Banks,stock
+FAIT,Faisal Islamic Bank of Egypt,Banks,stock
+HDBK,Housing and Development Bank,Banks,stock
+CANA,Suez Canal Bank,Banks,stock
+EXPA,Export Development Bank of Egypt,Banks,stock
+HRHO,EFG Holding,Non-bank Financial Services,stock
+CCAP,Qalaa Holdings,Non-bank Financial Services,stock
+BTFH,Beltone Holding,Non-bank Financial Services,stock
+EKHO,Egypt Kuwait Holding,Non-bank Financial Services,stock
+FWRY,Fawry for Banking Technology,IT Media and Communication Services,stock
+EFIH,e-finance for Digital and Financial Investments,IT Media and Communication Services,stock
+ETEL,Telecom Egypt,IT Media and Communication Services,stock
+MPRC,Egyptian Media Production City,IT Media and Communication Services,stock
+TMGH,Talaat Moustafa Group Holding,Real Estate,stock
+PHDC,Palm Hills Developments,Real Estate,stock
+EMFD,Emaar Misr for Development,Real Estate,stock
+HELI,Heliopolis Housing,Real Estate,stock
+MNHD,Madinet Masr for Housing and Development,Real Estate,stock
+OCDI,SODIC,Real Estate,stock
+ORHD,Orascom Development Egypt,Real Estate,stock
+SWDY,Elsewedy Electric,Industrial Goods Services and Automobiles,stock
+GBCO,GB Corp,Industrial Goods Services and Automobiles,stock
+ORAS,Orascom Construction,Contracting and Construction Engineering,stock
+ABUK,Abu Qir Fertilizers and Chemical Industries,Basic Resources,stock
+MFPC,Misr Fertilizers Production Company (MOPCO),Basic Resources,stock
+ESRS,Ezz Steel,Basic Resources,stock
+EGAL,Egypt Aluminum,Basic Resources,stock
+SKPC,Sidi Kerir Petrochemicals,Basic Resources,stock
+EGCH,Egyptian Chemical Industries (Kima),Basic Resources,stock
+AMOC,Alexandria Mineral Oils Company,Energy and Support Services,stock
+EAST,Eastern Company,Food Beverages and Tobacco,stock
+JUFO,Juhayna Food Industries,Food Beverages and Tobacco,stock
+EFID,Edita Food Industries,Food Beverages and Tobacco,stock
+OLFI,Obour Land for Food Industries,Food Beverages and Tobacco,stock
+DOMT,Arabian Food Industries (Domty),Food Beverages and Tobacco,stock
+SUGR,Delta Sugar,Food Beverages and Tobacco,stock
+POUL,Cairo Poultry,Food Beverages and Tobacco,stock
+ISPH,Ibnsina Pharma,Health Care and Pharmaceuticals,stock
+CLHO,Cleopatra Hospitals Group,Health Care and Pharmaceuticals,stock
+RMDA,Rameda Pharmaceuticals,Health Care and Pharmaceuticals,stock
+ORWE,Oriental Weavers,Textiles and Durables,stock
+DSCW,Dice Sport and Casual Wear,Textiles and Durables,stock
+ARCC,Arabian Cement,Building Materials,stock
+MCQE,Misr Cement (Qena),Building Materials,stock
+ALCN,Alexandria Container and Cargo Handling,Shipping and Transportation Services,stock
+ETRS,Egyptian Transport and Commercial Services (Egytrans),Shipping and Transportation Services,stock
+EGTS,Egyptian Resorts Company,Travel and Leisure,stock
+MTIE,MM Group for Industry and International Trade,Trade and Distributors,stock
+TALM,Taaleem Management Services,Education Services,stock
+CIRA,Cairo for Investment and Real Estate Development (CIRA Education),Education Services,stock
